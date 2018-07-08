@@ -1,0 +1,33 @@
+{
+  "name": "smyck",
+  "defaults": {
+    "text_color":"F7F7F7",
+    "background":"242424",
+    "activeline_background":"5D5D5D",
+    "matchingbracket_color":"77DFD8"
+  },
+  "gutters": {
+    "background":"242424",
+    "text_color":"5D5D5D",
+    "border_color":"242424"
+  },
+  "tokens": {
+    "comment_color":"5D5D5D",
+    "number_color":"D0B03C",
+    "atom_color":"F7F7F7",
+    "property_color":"F7F7F7",
+    "attribute_color":"99cc99",
+    "keyword_color":"CDEE69",
+    "builtin_color":"72B3CC",
+    "string_color":"D0B03C",
+    "variable_color":"F7F7F7",
+    "variable2_color":"F7F7F7",
+    "variable3_color":"F7F7F7",
+    "def_color":"72B3CC",
+    "bracket_color":"F7F7F7",
+    "tag_color":"CDEE69",
+    "header_color":"F7F7F7",
+    "link_color":"C8A0D1",
+    "error_background":"F7F7F7"
+  }
+}
