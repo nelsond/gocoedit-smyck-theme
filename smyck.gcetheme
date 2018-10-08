@@ -3,7 +3,7 @@
   "defaults": {
     "text_color":"F7F7F7",
     "background":"242424",
-    "activeline_background":"5D5D5D",
+    "activeline_background":"2E2E2E",
     "matchingbracket_color":"77DFD8"
   },
   "gutters": {
